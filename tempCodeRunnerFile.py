@@ -7,3 +7,4 @@ print("Student Name :",name)
 print("Semester:",sem)
 print("City:",city)
 print("Pincode:",pincode)
+#hsdhjhjvbdjbsjbdjvbj
